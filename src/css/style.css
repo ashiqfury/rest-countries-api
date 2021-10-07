@@ -13,12 +13,19 @@ body {
   min-height: 100vh;
   overflow-x: hidden;
   font-family: "Nunito Sans", sans-serif;
-  background: #111517;
+  background: #202c37;
 }
 
 .container {
   width: 100%;
   height: auto;
+}
+
+.loading-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 87vh;
 }
 
 .header {
@@ -36,8 +43,10 @@ body {
 }
 .header__theme {
   width: 27vw;
+  min-width: 120px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  padding: 10px 0;
   align-items: center;
   font-size: 14px;
   border-radius: 5px;
@@ -47,5 +56,82 @@ body {
   transform: rotate(160deg);
 }
 .header__theme--text {
+  margin-left: 10px;
   font-weight: 600;
+}
+
+.inputs {
+  width: 100%;
+  margin: 20px 0;
+  background: #2b3945;
+  color: white;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.inputs__input {
+  width: 80%;
+  padding: 20px;
+  background: #2b3945;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.inputs__input--icon {
+  margin-right: 10px;
+}
+.inputs__input input {
+  width: 100%;
+  height: 30px;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 16px;
+}
+.inputs__input input::placeholder {
+  color: white;
+  font-size: 16px;
+}
+.card-wrapper {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.card {
+  width: 70%;
+  max-width: 340px;
+  margin: 50px auto;
+  border-radius: 10px;
+  background: #2b3945;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15), 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.card__flag {
+  flex: 1;
+}
+.card__flag--img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+.card__description {
+  flex: 1;
+  padding: 20px 30px 40px;
+}
+.card__description--name {
+  font-weight: 800;
+  margin: 10px 0;
+  font-size: 24px;
+}
+.card__description--qn {
+  margin: 5px 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+.card__description--ans {
+  margin-left: 5px;
+  opacity: 0.7;
+  font-weight: 300;
 }

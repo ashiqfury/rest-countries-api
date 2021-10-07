@@ -5,7 +5,7 @@ const Inputs = () => {
 		<section className="inputs">
 			<div className="inputs__input">
 				<SearchIcon className="inputs__input--icon" />
-				<input type="text" required />
+				<input type="text" required placeholder="Search the country here..." />
 			</div>
 			<div className="inputs__selection">
 				<select>

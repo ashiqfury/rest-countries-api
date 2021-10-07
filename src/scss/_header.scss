@@ -14,8 +14,10 @@
 
 	&__theme {
 		width: 27vw;
+		min-width: 120px;
 		display: flex;
-		justify-content: space-between;
+		justify-content: center;
+		padding: 10px 0;
 		align-items: center;
 		font-size: 14px;
 		border-radius: 5px;
@@ -25,6 +27,7 @@
 			transform: rotate(160deg);
 		}
 		&--text {
+			margin-left: 10px;
 			font-weight: $md;
 		}
 	}
