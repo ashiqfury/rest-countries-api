@@ -4,8 +4,8 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 ## Links 🔗
 
-- Solution URL: [Repository](https://github.com/leonardomeza87/rest-countries-api)
-- Live Site URL: [GitHub Pages](https://leonardomeza87.github.io/rest-countries-api)
+- Solution URL: [Repository](https://github.com/ashiqfury/rest-countries-api)
+- Live Site URL: [GitHub Pages](https://ashiqfury.github.io/rest-countries-api)
 
 ## The challenge 💻
 
@@ -37,8 +37,8 @@ Users should be able to:
 
 ### More about me
 
-- Frontend Mentor - [@leonardomeza87](https://www.frontendmentor.io/profile/leonardomeza87)
-- Twitter - [@leonardomeza87](https://www.twitter.com/leonardomeza87)
+- Frontend Mentor - [@ashiqfury](https://www.frontendmentor.io/profile/ashiqfury)
+- Twitter - [@ashiqfury](https://www.twitter.com/ashiqfury)
 
 ## Download ⚙️
 
@@ -47,5 +47,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To clone:
 
 ```
-git clone https://github.com/leonardomeza87/rest-countries-api.git
+git clone https://github.com/ashiqfury/rest-countries-api.git
 ```
