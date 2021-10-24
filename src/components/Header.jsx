@@ -8,7 +8,7 @@ const Header = () => {
 	const html = document.documentElement;
 	const light = 'theme--light';
 	const dark = 'theme--dark';
-	const [theme, setTheme] = useState(localStorage.getItem('theme') || light);
+	const [theme, setTheme] = useState(localStorage.getItem('theme') || dark);
 
 	const switchTheme = () => {
 		if (theme === dark) {
