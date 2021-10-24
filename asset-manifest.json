@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/rest-countries-api/static/css/main.9a1c940f.chunk.css",
+    "main.js": "/rest-countries-api/static/js/main.99418ce2.chunk.js",
+    "main.js.map": "/rest-countries-api/static/js/main.99418ce2.chunk.js.map",
+    "runtime-main.js": "/rest-countries-api/static/js/runtime-main.df0bddec.js",
+    "runtime-main.js.map": "/rest-countries-api/static/js/runtime-main.df0bddec.js.map",
+    "static/js/2.34a0555e.chunk.js": "/rest-countries-api/static/js/2.34a0555e.chunk.js",
+    "static/js/2.34a0555e.chunk.js.map": "/rest-countries-api/static/js/2.34a0555e.chunk.js.map",
+    "index.html": "/rest-countries-api/index.html",
+    "static/css/main.9a1c940f.chunk.css.map": "/rest-countries-api/static/css/main.9a1c940f.chunk.css.map",
+    "static/js/2.34a0555e.chunk.js.LICENSE.txt": "/rest-countries-api/static/js/2.34a0555e.chunk.js.LICENSE.txt",
+    "static/media/arrow-back.39940f16.svg": "/rest-countries-api/static/media/arrow-back.39940f16.svg",
+    "static/media/chevron-down.6e2c90ee.svg": "/rest-countries-api/static/media/chevron-down.6e2c90ee.svg",
+    "static/media/close-outline.a22b61b1.svg": "/rest-countries-api/static/media/close-outline.a22b61b1.svg",
+    "static/media/logo-github.bdd8bb6b.svg": "/rest-countries-api/static/media/logo-github.bdd8bb6b.svg",
+    "static/media/logo-twitter.da0be46b.svg": "/rest-countries-api/static/media/logo-twitter.da0be46b.svg",
+    "static/media/moon-filled.b23d5034.svg": "/rest-countries-api/static/media/moon-filled.b23d5034.svg",
+    "static/media/moon.1d93a65e.svg": "/rest-countries-api/static/media/moon.1d93a65e.svg",
+    "static/media/search.637c6b3c.svg": "/rest-countries-api/static/media/search.637c6b3c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df0bddec.js",
+    "static/js/2.34a0555e.chunk.js",
+    "static/css/main.9a1c940f.chunk.css",
+    "static/js/main.99418ce2.chunk.js"
+  ]
+}
